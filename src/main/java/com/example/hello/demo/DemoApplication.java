@@ -11,7 +11,7 @@ public class DemoApplication {
 	
 	@GetMapping("hello")
 	public String getMessage() {
-		return  "Hello World Application Entered into the Azure APP ! Raja!";
+		return  "Hello World Application Entered into the Azure APP ! Raja Kumar";
 	}
 
 	public static void main(String[] args) {
